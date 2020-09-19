@@ -11,8 +11,6 @@ Original file is located at
 > 
 
 
-**Reg no:- 20MCB1012**
-
 >
 **Description Of Assignment :-** 
 >
